@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuanAlmeidaValenca
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, css , HTML
+- 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: luan.valenca@hotmail.com
 
 <!---
 LuanAlmeidaValenca/LuanAlmeidaValenca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
