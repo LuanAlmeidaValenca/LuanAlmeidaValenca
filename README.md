@@ -5,6 +5,7 @@ I am a Computer Science student interested in low-level programming, embedded sy
 ### About Me
 
 * 🎓 B.S. in Computer Science (Expected graduation: 2027) from Universidade Federal de Sergipe (UFS).
+* 🤖 Project Coordinator at CoreTech (Hardware and Robotics Academic League).
 * 💼 Currently open to work.
 * 🌱 Currently learning more about computer vision.
 * 🤝 Open to collaborating on open-source projects and new job opportunities.
@@ -47,5 +48,5 @@ You can use visual badges in this section, but a clean and direct list is also e
 
 Feel free to reach out to me to talk about technology, opportunities, or collaborative projects:
 
-* **LinkedIn:** [Your LinkedIn Name](Link to your profile)
+* **LinkedIn:** (https://www.linkedin.com/in/luan-valen%C3%A7a-4b659b304/)
 * **Email:** luan.valeca2005@gmail.com
